@@ -16,12 +16,12 @@
      padding: 18;
      " 
 />
-### Hi there 👋 im [Aeo Zatoichi Bax](https://github.com/im-aeo) <div>
+### Hi there 👋 im [Tam](https://github.com/tanmuzu) <div>
 
 
-- 🔭 I sometimes work on [Brickplanet](https://github.com/im-aeo/Brickplanet) for fun.
+- 🔭 I sometimes work on [Netisu](https://github.com/netsu) for fun.
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,laravel,adonis,html,css,vue,vite,webpack)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,laravel,hono,html,css,vue,vite,svelte,tailwind)]()
 
 <hr>
