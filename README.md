@@ -22,6 +22,6 @@
 - 🔭 I sometimes work on [Netisu](https://github.com/netsu) for fun.
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,laravel,hono,html,css,vue,vite,svelte,tailwind)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,laravel,css,vue,vite,svelte,tailwind)]()
 
 <hr>
