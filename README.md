@@ -19,7 +19,7 @@
 ### Hi there 👋 im [Tam](https://github.com/tanmuzu) <div>
 
 
-- 🔭 I sometimes work on [Netisu](https://github.com/netsu) for fun.
+- 🔭 I sometimes work on [Netisu](https://github.com/netisu) for fun.
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,laravel,css,vue,vite,svelte,tailwind)]()
