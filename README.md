@@ -27,4 +27,4 @@ I’m currently focused on these core initiatives:
 <hr>
 
 ### 📈 GitHub Stats
-[![Tam's GitHub stats]([https://streak-stats.demolab.com?user=tanmuzu&theme=discord-old-blurple&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly](https://github-stats-extended.vercel.app/api?username=tanmuzu&show_icons=true&include_all_commits=true&theme=midnight-purple))]
+[![Tam's GitHub stats](https://github-stats-extended.vercel.app/api?username=tanmuzu&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=tanmuzu&show_icons=true&include_all_commits=true&theme=midnight-purple)
