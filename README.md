@@ -3,7 +3,7 @@
   
   <h1>Hi there 👋 I'm Tam</h1>
   <p><em>Researcher, Web Developer & Cyber Security Analyst.</em></p>
-  <p>Bringing fun back to the internet, all while working for the greator good.</p>
+  <p>Bringing fun back to the internet, all while working for the greater good.</p>
 </div>
 
 <hr>
@@ -27,4 +27,4 @@ I’m currently focused on these core initiatives:
 <hr>
 
 ### 📈 GitHub Stats
-[![Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmuzu&show_icons=true&theme=radical)]
+[![Tam's GitHub stats](https://streak-stats.demolab.com?user=tanmuzu&theme=discord-old-blurple&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
